@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- ============================================= -->
+<!--  README.md – Ali Imannudin (Fullstack Dev)  -->
+<!--  100% GitHub-compatible, no CSS error       -->
+<!-- ============================================= -->
 
-<!--
-**aliimndev/aliimndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+aliimndev;Fullstack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Foto Profil (GANTI DENGAN FOTO KAMU) -->
+
+
+
+<!-- Badges kecil -->
+<p>
+  <img src="https://img.shields.io/github/followers/aliimn?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=aliimn&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
+
+---
+
+### About Me
+```text
+Learning: Frontend Architecture • Backend System Design
+Ask me about: React • Next.js • Node.js • Express • MongoDB • Tailwind
+Goal: Build fast, clean, scalable web experiences
+Email: aliimn.dev@gmail.com
+Fun fact: I run on ☕ and turn bugs into features
+```
+<div align="center">
+
+<!-- Programming Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="48" />
+
+<!-- Frameworks & Libraries -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="48" />
+
+<!-- Databases -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="48" />
+
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" width="48" />
+
+</div>
+
+  
