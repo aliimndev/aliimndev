@@ -72,7 +72,4 @@ Email: aliimn.dev@gmail.com
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliimn&bg_color=0d1117&color=00ffb7&line=00d9ff&point=ffffff&area=true&hide_border=true" width="95%" />
-</p>
 
