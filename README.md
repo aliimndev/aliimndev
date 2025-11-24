@@ -2,12 +2,6 @@
 
 # Hi, I'm aliimndev 👋
 ### Fullstack Developer
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=aliimn&label=Profile+Views&color=0d1117&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aliimn?label=Follow&style=social" alt="GitHub Followers" />
-</p>
-
 **📧 Email:** devaliimn@gmail.com 
 
 </div>
