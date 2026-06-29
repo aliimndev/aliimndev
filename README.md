@@ -43,7 +43,9 @@
     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
   </samp>
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
+</p>
 
 <!-- ================ SNAKE ANIMATION ================ -->
 <p align="center">
@@ -52,11 +54,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliimndev/aliimndev/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/aliimndev/aliimndev/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
 </p>
 
 <p align="center">
