@@ -37,15 +37,11 @@
 
 
 <p align="center">
-  <samp>
-    ◆  ABOUT ME  ◆
-  </samp>
+  <samp>──────〔 WHO AM I 〕──────</samp>
 </p>
 
 <p align="center">
-  <samp>
-    Full Stack Developer  |  AI/ML Enthusiast  |  Tech Explorer
-  </samp>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+AI-Powered+Applications;Open+Source+Learner;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -71,33 +67,9 @@
 </p>
 
 <p align="center">
-<pre>
-████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗
-╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝
-   ██║   ███████║███████║██╔██╗ ██║█████╔╝
-   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗
-   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
+</p>
 
-██╗   ██╗ ██████╗ ██╗   ██╗
-╚██╗ ██╔╝██╔═══██╗██║   ██║
- ╚████╔╝ ██║   ██║██║   ██║
-  ╚██╔╝  ██║   ██║██║   ██║
-   ██║   ╚██████╔╝╚██████╔╝
-   ╚═╝    ╚═════╝  ╚═════╝
-
-███████╗ ██████╗ ██████╗
-██╔════╝██╔═══██╗██╔══██╗
-█████╗  ██║   ██║██████╔╝
-██╔══╝  ██║   ██║██╔══██╗
-██║     ╚██████╔╝██║  ██║
-╚═╝      ╚═════╝ ╚═╝  ╚═╝
-
-██╗   ██╗██╗███████╗██╗████████╗██╗███╗   ██╗ ██████╗
-██║   ██║██║██╔════╝██║╚══██╔══╝██║████╗  ██║██╔════╝
-██║   ██║██║███████╗██║   ██║   ██║██╔██╗ ██║██║  ███╗
-╚██╗ ██╔╝██║╚════██║██║   ██║   ██║██║╚██╗██║██║   ██║
- ╚████╔╝ ██║███████║██║   ██║   ██║██║ ╚████║╚██████╔╝
-  ╚═══╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=THANK+YOU+FOR+VISITING;SEE+YOU+NEXT+TIME" />
 </p>
