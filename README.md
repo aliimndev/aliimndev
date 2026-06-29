@@ -35,15 +35,9 @@
   </samp>
 </p>
 
-
 <p align="center">
-  <samp>──────〔 WHO AM I 〕──────</samp>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=2500&pause=800&color=00FF41&center=true&width=800&lines=%3E+whoami;Full+Stack+Developer;AI+Builder;Open+Source+Learner" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+AI-Powered+Applications;Open+Source+Learner;Always+Learning+New+Things+%F0%9F%9A%80" />
-</p>
-
 <p align="center">
   <samp>
     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
@@ -60,11 +54,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <samp>
-    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  </samp>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
