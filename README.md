@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <samp>
     ░█████╗░██╗██╗██╗███╗░░░███╗███╗░░██╗██████╗░███████╗██╗░░░██╗<br>
@@ -10,8 +9,6 @@
     ╚═╝░░╚═╝╚═╝╚═╝╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═══╝╚═════╝░╚══════╝░░╚═══╝░░
   </samp>
 </p>
-
-
 
 <!-- ================ BADGE TECH STACK ================ -->
 <p align="center">
@@ -54,6 +51,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliimndev/aliimndev/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/aliimndev/aliimndev/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</p>
+<!-- ================ VISITOR COUNTER ================ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aliimndev&label=Visitors&color=00ff41&style=for-the-badge" alt="visitors" />
 </p>
 
 <p align="center">
