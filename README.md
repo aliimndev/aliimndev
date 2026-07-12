@@ -52,11 +52,12 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/aliimndev/aliimndev/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=THANK+YOU+FOR+VISITING;SEE+YOU+NEXT+TIME" />
+</p>
 <!-- ================ VISITOR COUNTER ================ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aliimndev&label=Visitors&color=00ff41&style=for-the-badge" alt="visitors" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=THANK+YOU+FOR+VISITING;SEE+YOU+NEXT+TIME" />
-</p>
