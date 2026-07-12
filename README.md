@@ -1,4 +1,3 @@
-
 <p align="center">
   <samp>
     ░█████╗░██╗██╗██╗███╗░░░███╗███╗░░██╗██████╗░███████╗██╗░░░██╗<br>
@@ -35,11 +34,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=2500&pause=800&color=00FF41&center=true&width=800&lines=%3E+whoami;Full+Stack+Developer;AI+Builder;Open+Source+Learner" />
 </p>
+
 <p align="center">
   <samp>
     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
   </samp>
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
 </p>
@@ -53,11 +54,8 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=THANK+YOU+FOR+VISITING;SEE+YOU+NEXT+TIME" />
-</p>
+
 <!-- ================ VISITOR COUNTER ================ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliimndev&label=Visitors&color=00ff41&style=for-the-badge" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=aliimndev&label=Profile%20Visitors&color=00ff41&style=for-the-badge&base=1000" alt="visitors"/>
 </p>
-
