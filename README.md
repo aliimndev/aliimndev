@@ -45,6 +45,18 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
 </p>
 
+
+
+<!-- ================ CURRENT STREAK ================ -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliimndev&theme=dark&hide_border=true&background=0D1117&fire=00FF41&ring=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF" alt="GitHub Streak" />
+</p>
+
+<!-- ================ RANDOM DEV QUOTE ================ -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
 <!-- ================ SNAKE ANIMATION ================ -->
 <p align="center">
   <picture>
@@ -53,7 +65,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/aliimndev/aliimndev/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
-
 
 <!-- ================ VISITOR COUNTER ================ -->
 <p align="center">
