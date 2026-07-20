@@ -45,8 +45,6 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
 </p>
 
-
-
 <!-- ================ CURRENT STREAK ================ -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliimndev&theme=dark&hide_border=true&background=0D1117&fire=00FF41&ring=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF&v=2" alt="GitHub Streak" />
