@@ -67,7 +67,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aliimndev&label=Profile%20Visitors&color=00ff41&style=for-the-badge&base=1000" alt="visitors"/>
 </p>
-<!-- ================ VISITOR COUNTER ================ -->
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=aliimndev&label=Profile%20Visitors&countColor=%2300ff41&style=for-the-badge" alt="visitors"/>
-</p>
+
